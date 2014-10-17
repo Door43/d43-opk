@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[opk:home|Door43 (opk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-opk|d43-opk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-opk/archive/master.zip|d43-opk.zip]]
+
+**Recent Changes**
+{{changes>ns = opk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/opk|Ethnologue data]]
+
